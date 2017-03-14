@@ -1,7 +1,12 @@
 .gitbook-link {
     display: none !important;
 }
+
 .image-wrapper {
     text-align: center;
     padding: 15px 0px;
+}
+
+table {
+border: 0;
 }
