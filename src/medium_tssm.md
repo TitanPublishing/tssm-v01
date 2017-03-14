@@ -1,7 +1,7 @@
 - ~~[Trying Something New.](https://medium.com/tssm/trying-something-new-bcaa02437dfc)~~
 - ~~[Deep Cove Adventure!](https://medium.com/tssm/deep-cove-adventure-1d656573ad83)~~
 - ~~[Toe Many Problems](https://medium.com/tssm/toe-many-problems-67c9a26875c9&&&3)~~
-- ~~[Stuffed Animals For All Ages!](https://medium.com/tssm/stuffed-animals-are-for-all-ages-1deb84da9063&&&2)~~
+- ~~[Stuffed Animals For All Ages!](https://medium.com/tssm/stuffed-animals-are-for-all-ages-1deb84da9063)~~
 - ~~[Student Council](https://medium.com/tssm/student-council-1c7509a45fff&&&1)~~
 - [What’s New In The Library?](https://medium.com/tssm/whats-new-in-the-library-17e7a5e6d216)
 - [What’s on the Menu?](https://medium.com/tssm/whats-on-the-menu-efc6bf0ba4e0)
@@ -11,8 +11,8 @@
 - [Running Their Hearts Out](https://medium.com/tssm/running-their-hearts-out-ee3472b27aa6)
 - [SEEKING ENGINEERABLES](https://medium.com/tssm/seeking-engineerables-beea527801ff)
 - [In This Issue](https://medium.com/tssm/in-this-issue-b6c2b618a262)
-- [What’s on the Menu?](https://medium.com/tssm/whats-on-the-menu-a5a435c4dcb3&&&2)
-- [An Elfin Experience](https://medium.com/tssm/an-elfin-experience-a91bf748a1d5&&&1)
+- [What’s on the Menu?](https://medium.com/tssm/whats-on-the-menu-a5a435c4dcb3)
+- [An Elfin Experience](https://medium.com/tssm/an-elfin-experience-a91bf748a1d5)
 - [¡Titan Comics!](https://medium.com/tssm/titan-comics-4342a9a56691)
 - [Movie Recommendations](https://medium.com/tssm/movie-recommendations-9f962e868f6e)
 - [Active For Life](https://medium.com/tssm/active-for-life-fc49eef25bfe)
