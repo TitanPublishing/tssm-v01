@@ -1,5 +1,6 @@
 #Table of Contents
 
-Title | a | Page Number
------ | --- | -----------
-Trying Something New | ..... | 1
+ Page | Title 
+----- | -----------
+1 | __Trying Something New__
+2 | __page 2__
