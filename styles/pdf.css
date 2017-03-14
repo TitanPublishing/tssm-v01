@@ -5,3 +5,15 @@
     text-align: center;
     padding: 15px 0px;
 }
+
+ .col2 {
+    columns: 2 300px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 300px; /* chrome, safari */
+    -moz-columns: 2 300px;    /* firefox */
+  }
+
+  .col3 {
+    columns: 3 200px;
+    -webkit-columns: 3 200px;
+    -moz-columns: 3 200px;
+  }
