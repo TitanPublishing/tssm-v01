@@ -1,14 +1,5 @@
 {
-    "styles": {
-        "website": "styles/website.css"
-    }
-}
-
-{
+    "styles": {"website": "styles/website.css"},
     "plugins": ["theme-bandwidth"],
-    "pluginsConfig": {
-        "theme-bandwidth": {
-            "theme": "dark"
-        }
-    }
+    "pluginsConfig": {"theme-bandwidth": {"theme": "dark"}}
 }
