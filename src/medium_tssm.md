@@ -1,6 +1,6 @@
-- ~[Trying Something New.](https://medium.com/tssm/trying-something-new-bcaa02437dfc?source=collection_detail----b4f9584fbc1-----35----------)~
-- ~[Deep Cove Adventure!](https://medium.com/tssm/deep-cove-adventure-1d656573ad83?source=collection_detail----b4f9584fbc1-----34----------)~
-- ~[Toe Many Problems](https://medium.com/tssm/toe-many-problems-67c9a26875c9?source=collection_detail----b4f9584fbc1-----33----------)~
+- ~~[Trying Something New.](https://medium.com/tssm/trying-something-new-bcaa02437dfc?source=collection_detail----b4f9584fbc1-----35----------)~~
+- ~~[Deep Cove Adventure!](https://medium.com/tssm/deep-cove-adventure-1d656573ad83?source=collection_detail----b4f9584fbc1-----34----------)~~
+- ~~~[Toe Many Problems](https://medium.com/tssm/toe-many-problems-67c9a26875c9?source=collection_detail----b4f9584fbc1-----33----------)~~
 - [Stuffed Animals For All Ages!](https://medium.com/tssm/stuffed-animals-are-for-all-ages-1deb84da9063?source=collection_detail----b4f9584fbc1-----32----------)
 - [Student Council](https://medium.com/tssm/student-council-1c7509a45fff?source=collection_detail----b4f9584fbc1-----31----------)
 - [What’s New In The Library?](https://medium.com/tssm/whats-new-in-the-library-17e7a5e6d216?source=collection_detail----b4f9584fbc1-----30----------)
