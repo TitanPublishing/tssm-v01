@@ -2,4 +2,4 @@
 
  . | .  |  .
 --|---|---
-Trying Something New | ***** | 1
+Trying Something New | ..... | 1
