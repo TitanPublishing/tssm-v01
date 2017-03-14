@@ -1,8 +1,8 @@
 - ~~[Trying Something New.](https://medium.com/tssm/trying-something-new-bcaa02437dfc)~~
 - ~~[Deep Cove Adventure!](https://medium.com/tssm/deep-cove-adventure-1d656573ad83)~~
 - ~~[Toe Many Problems](https://medium.com/tssm/toe-many-problems-67c9a26875c9&&&3)~~
-- [Stuffed Animals For All Ages!](https://medium.com/tssm/stuffed-animals-are-for-all-ages-1deb84da9063&&&2)
-- [Student Council](https://medium.com/tssm/student-council-1c7509a45fff&&&1)
+- ~~[Stuffed Animals For All Ages!](https://medium.com/tssm/stuffed-animals-are-for-all-ages-1deb84da9063&&&2)~~
+- ~~[Student Council](https://medium.com/tssm/student-council-1c7509a45fff&&&1)~~
 - [What’s New In The Library?](https://medium.com/tssm/whats-new-in-the-library-17e7a5e6d216)
 - [What’s on the Menu?](https://medium.com/tssm/whats-on-the-menu-efc6bf0ba4e0)
 - [Principal’s Message](https://medium.com/tssm/principals-message-6ed57d139356)
