@@ -1,8 +1,8 @@
 {
     "plugins": ["theme-bandwidth", "betterpagetitles],
-    "pluginsConfig": {
-        "theme-bandwidth": {
-            "theme": "dark"
-        }
-    }
+                "pluginsConfig": {
+                "theme-bandwidth": {
+                "theme": "dark"
+                }
+                }
 }
