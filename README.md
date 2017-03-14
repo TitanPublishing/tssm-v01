@@ -1,4 +1,4 @@
-# Templeton Secondary Student Magazine {#main}
+# Templeton Secondary Student Magazine
 
 ![](assets/tssm-banner.png)
 
