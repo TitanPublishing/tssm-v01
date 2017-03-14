@@ -1,6 +1,5 @@
 {
-    "plugins": ["theme-bandwidth", 
-               "betterpagetitles],
+    "plugins": ["theme-bandwidth", "betterpagetitles],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark"
