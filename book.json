@@ -1,14 +1,14 @@
 {
-    "plugins": ["theme-bandwidth"],
-    "pluginsConfig": {
-          "theme-bandwidth": {
-               "theme": "dark"
-          }
-     }
+    "styles": {
+        "website": "styles/website.css"
+    }
 }
 
 {
-    "styles": {
-        "website": "styles/website.css"
+    "plugins": ["theme-bandwidth"],
+    "pluginsConfig": {
+        "theme-bandwidth": {
+            "theme": "dark"
+        }
     }
 }
