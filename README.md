@@ -1,3 +1,8 @@
 # TSSM Test {#tssm-test}
-![](assets/tssm-banner.png)
+
+![](/assets/templeton-from-backfield.jpg)
+
 ## [Table of Contents](toc.md)
+
+
+
