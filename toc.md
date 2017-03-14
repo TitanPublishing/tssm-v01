@@ -1,5 +1,5 @@
 #Table of Contents
 
-Title | . | Page Number
------ | - | -----------
+Title | a | Page Number
+----- | --- | -----------
 Trying Something New | ..... | 1
