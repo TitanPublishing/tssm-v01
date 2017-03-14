@@ -1,8 +1,8 @@
-# TSSM Test {#tssm-test}
+# Templeton Secondary Student Magazine {#main}
 
 ![](/assets/tssm-banner.png)
 
-## [Table of Contents](SUMMARY.md)
+<!-- ## [Table of Contents](SUMMARY.md) -->
 
 
 
