@@ -59,11 +59,19 @@ p {
     padding: 15px 0px;
 }
 
-.image-right {
+.right {
  float: right;
  margin: 0 0 10px 10px;
+ 
 }
-.image-left {
+
+.left {
  float: left;
  margin: 0 0 10px 10px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
