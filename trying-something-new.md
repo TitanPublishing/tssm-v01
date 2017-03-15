@@ -14,7 +14,10 @@ According to a small poll conducted by the magazine, 2 out of 3 people would pre
 The Templeton Secondary School Magazine team would be undoubtedly appreciative if its readers gave feedback of any sort. Whether it is about the want for a hard copy, or the idea of more news coverage on a school event, anything at all. All comments are valid and appreciated. 
 </p>
 <p>
-If any Templeton students think they may want to join the TSSM team they are encouraged to contact the magazine editors Eldrich Lucero or Mateya Burney. (You can also contact us via emailing templetonmagazine@gmail.com)The TSSM team wants to be able to knit the Templeton student network closer than ever with this definitive news outlet. The team is excited to bring all aspects of this great school together and create a basic communication platform for all students.
+If any Templeton students think they may want to join the TSSM team they are encouraged to contact the magazine editors Eldrich Lucero or Mateya Burney. (You can also contact us via emailing templetonmagazine@gmail.com).  
+</p>
+<p>
+The TSSM team wants to be able to knit the Templeton student network closer than ever with this definitive news outlet. The team is excited to bring all aspects of this great school together and create a basic communication platform for all students.
 </p>
 </div>
 
