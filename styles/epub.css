@@ -1,6 +1,59 @@
+ .col2 {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+
+    -webkit-column-rule: 2px outset #000000; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px outset #000000; /* Firefox */
+    column-rule: 2px outset #000000;
+  }
+
+  .col3 {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+
+    -webkit-column-rule: 2px outset #ffffff; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px outset #ffffff; /* Firefox */
+    column-rule: 2px outset #ffffff;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+div {
+ font-family: 'Open Sans', sans-serif;
+ text-align: justify;
+ margin: 20px auto;
+}
+
+#firstBold {
+ font-weight: bold;
+ font-variant:small-caps;
+ font-stretch: condensed;
+ font-size: larger;
+}
+
+.firstBold {
+ text-indent: 0px;
+}
+
+p {
+ text-indent: 20px;
+ font-size: smaller;
+}
+
 .gitbook-link {
     display: none !important;
 }
+
 .image-wrapper {
     text-align: center;
     padding: 15px 0px;
