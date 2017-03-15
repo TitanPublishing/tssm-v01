@@ -41,9 +41,13 @@ div {
  font-stretch: condensed;
 }
 
-p {
-    text-indent: 20px;
+.firstBold {
+ text-indent: 0px;
 }
+
+p {
+}
+
 h6 {
  font-size-adjust: 0.5;
  text-align: center;
