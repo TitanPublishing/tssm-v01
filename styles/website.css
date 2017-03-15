@@ -38,9 +38,7 @@ div {
 #firstBold {
  font-weight: bold;
  font-variant:small-caps;
- font-size-adjust: 0.8;
  font-stretch: condensed;
- text-indent: 0px;
 }
 
 p {
