@@ -29,16 +29,17 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 div {
-  font-family: 'Open Sans', sans-serif;
+ font-family: 'Open Sans', sans-serif;
  font-size-adjust: 0.75;
-  text-align: justify;
-  margin: 20px auto;
+ text-align: justify;
+ margin: 20px auto;
 }
 
 #firstBold {
  font-weight: bold;
  font-variant:small-caps;
  font-size-adjust: 0.6;
+ font-stretch: condensed;
 
 }
 
