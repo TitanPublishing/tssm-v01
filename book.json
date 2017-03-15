@@ -1,4 +1,5 @@
 {
+	"title": "Templeton Secondary Student Magazine",
 	"styles": {
 		"website": "styles/website.css",
 		"ebook": "styles/ebook.css",
@@ -6,13 +7,27 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["theme-bandwidth", "image-wrapper", "scripts"],
+	"plugins": ["theme-bandwidth", "image-wrapper", "scripts", "autocover"],
 	"pluginsConfig": {
 		"theme-bandwidth": {
 			"theme": "dark"
 		},
 		"scripts": {
 			"files": ["./scripts/local-script.js"]
+		},
+		"autocover": {
+			"font": {
+				"size": null,
+				"family": "Impact",
+				"color": "#FFF"
+			},
+			"size": {
+				"w": 1800,
+				"h": 2360
+			},
+			"background": {
+				"color": "#09F"
+			}
 		}
 	}
 }
