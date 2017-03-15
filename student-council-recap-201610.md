@@ -18,7 +18,7 @@ This year, the annual Halloween dance took place in the cafeteria last block on 
 
 ![](https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg)
 
-<div class="col2">
+<div>
 <p>
 In November, Student council will be hosting the Canley Cup, a Winter carnival and maybe even a cheeky free hot chocolate day! The Canley Cup is an event where high schools all over Vancouver, including Templeton, will be collecting non-perishable food items and donating them to the Vancouver Food Bank. The donation boxes will be left in English classes from November 16 to December 14 and the class that collects the most food or money will win a free pizza party! 
 </p>
