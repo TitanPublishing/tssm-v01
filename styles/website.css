@@ -75,3 +75,11 @@ p {
     clear: both;
     display: table;
 }
+
+.column-image {
+ width: 40%;
+}
+
+.column-content {
+ width: 60%;
+}
