@@ -1,8 +1,9 @@
 # Stuffed Animals For All Ages
 ## Your Monthly Smile
 
-![](assets/stuffed-animals-for-all-ages-01.png)
-######src: https://www.flickr.com/photos/28759204@N00/4796647461/
+![](https://i.imgur.com/A9Og9.jpg)
+
+###### src: https://i.imgur.com/A9Og9.jpg
 
 <div class="col2">
 
@@ -12,8 +13,10 @@
 It seems that as we grow up, everything goes downhill. These traits fade and are associated with immaturity as we find our definite “character.” Out of all the baby superiority, one thing stands out as the most important: babies sleep with stuffed animals; faithful companions who give excellent cuddles. In the search to find a human to cuddle with, we forget about those perfectly cuddly stuffies.
 </p>
 <p>
-![](https://i.imgur.com/A9Og9.jpg)
-###### src: https://i.imgur.com/A9Og9.jpg
+![](assets/stuffed-animals-for-all-ages-01.png)
+
+######src: https://www.flickr.com/photos/28759204@N00/4796647461/
+
 </p>
 <p>
 
