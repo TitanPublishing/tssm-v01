@@ -2,7 +2,6 @@
 ## Your Monthly Smile
 
 ![](https://i.imgur.com/A9Og9.jpg)
-
 ###### src: https://i.imgur.com/A9Og9.jpg
 
 <div class="col2">
@@ -15,8 +14,7 @@ It seems that as we grow up, everything goes downhill. These traits fade and are
 <p>
 
 ![](assets/stuffed-animals-for-all-ages-01.png)
-
-######src: https://www.flickr.com/photos/28759204@N00/4796647461/
+###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
 
 </p>
 <p>
