@@ -3,7 +3,7 @@
 
 ![](https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg)
 
-<div class="col2">
+<div>
 <p class="firstBold"><span id="firstBold">On October 6th, Templeton’s Active For Life </span>Phys Ed class went on their first recreational field trip to Deep Cove located in North Van. We hiked the Baden Powell Trail, which leads to Quarry Rock, that offers scenic views of the Indian Arm.
 </p>
 <p>
