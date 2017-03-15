@@ -12,13 +12,6 @@
 It seems that as we grow up, everything goes downhill. These traits fade and are associated with immaturity as we find our definite “character.” Out of all the baby superiority, one thing stands out as the most important: babies sleep with stuffed animals; faithful companions who give excellent cuddles. In the search to find a human to cuddle with, we forget about those perfectly cuddly stuffies.
 </p>
 <p>
-
-![](assets/stuffed-animals-for-all-ages-01.png)
-###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
-
-</p>
-<p>
-
 A Harvard Business Review study found that the mere presence of stuffed animals improved behavior in adults, reminding them of their childhood and renewing their moral compass. Cuddling with a stuffy at night can improve your overall character, returning you to your carefree days, refuelling your childhood kindness and re-awakening your empathy to express for the rest of the day.
 </p>
 <p>
@@ -31,6 +24,9 @@ Originally designed as pin cushions in Germany, stuffed animals have been around
 Next time you’re feeling down, you will know where to turn. By the way, IKEA has some really great stuffed animals for competitive prices.
 </p>
 </div>
+
+![](assets/stuffed-animals-for-all-ages-01.png)
+###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
 
 ___
 
