@@ -2,10 +2,8 @@
 ## Templeton's Fit For Life PE class
 
 ![](https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg)
-###### via: [https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg](https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg)
 
 <div class="col2">
-
 <p><span id="firstBold">On October 6th,</span> Templeton’s Active For Life PE class went on their first recreational field trip to Deep Cove located in North Van. We hiked the Baden Powell Trail, which leads to Quarry Rock, that offers scenic views of the Indian Arm.
 </p>
 <p>
