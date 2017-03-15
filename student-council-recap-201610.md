@@ -1,7 +1,7 @@
 # Student Council
 ##  Recap (October 2016)
 
-![](assets/student-council-recap-201610-.jpg)
+![](assets/student-council-recap-201610-01.jpg)
 
 <div class="clearfix">
 <p class="firstBold"><span id="firstBold">In October, Student Council hosted three main</span> events; clubs day, movie night and the annual Halloween dance. Clubs day was held in the cafeteria, and there were over 15 clubs in attendance. Some of the clubs included: Games club, Environment club, and the LEO club. Clubs Day allowed clubs to promote themselves and welcome new members into their club! Movie night took place on Wednesday the 12th. The movie shown was Coraline, which was voted to be played by the Templeton students.
