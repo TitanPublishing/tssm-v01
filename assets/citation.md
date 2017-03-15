@@ -3,13 +3,13 @@
 ###### src:https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg
 ___
 # Toe Many Problems
-![](assets/thor-stubbed-toe.jpg)
+![](thor-stubbed-toe.jpg)
 ###### src: https://dammitdolls.com/getattachment/blog/Dammit-Dolls-Blog/January-2016/The-Mental-Process-of-Stubbing-Your-toe/thor-stubbed-toe-(1).jpg.aspx
 ___
 # Stuffed Animals For All Ages
 ![](https://i.imgur.com/A9Og9.jpg)
 ###### src: https://i.imgur.com/A9Og9.jpg
-![](assets/stuffed-animals-for-all-ages-01.png)
+![](stuffed-animals-for-all-ages-01.png)
 ###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
 ___
 # Student Council
