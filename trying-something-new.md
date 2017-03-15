@@ -3,8 +3,7 @@
 
 # Trying Something New
 ## Introducing TSSM
-<div class="col2">
-
+<div>
 <p class="firstBold"><span id="firstBold">Templeton Secondary Student Magazine is</span> finally here! Templeton’s very own magazine! Filled with columns to help the everyday-Titan navigate school and all that comes with it. This magazine will present news columns as an outlet to catch up on monthly events, activities, and student council announcements, and to provide knowledge about Templeton clubs and sports games. We’ll also have monthly pieces of art works in the form of, comics, an art gallery, and story telling. We are open to any student or member of faculty that want their voice to be heard.
 </p>
 <p>
