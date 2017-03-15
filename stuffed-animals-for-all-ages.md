@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/A9Og9.jpg)
 
-<div class="col2">
+<div>
 <p class="firstBold"><span id="firstBold">If you’re sleep deprived and stressing over the</span> product of your procrastination, all you need is a relaxing moment of love and calm. Pediatricians agree that babies have everything right. They’re non-discriminatory, open-minded, more creative, carefree and they know how to properly lift things without breaking their backs. 
 </p>
 <p>
