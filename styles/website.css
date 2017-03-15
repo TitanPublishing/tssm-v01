@@ -12,13 +12,13 @@
     -moz-column-count: 2; /* Firefox */
     column-count: 2;
 
-    -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 10px; /* Firefox */
-    column-gap: 10px;
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
 
-    -webkit-column-rule: 4px outset #ff00ff; /* Chrome, Safari, Opera */
-    -moz-column-rule: 4px outset #ff00ff; /* Firefox */
-    column-rule: 4px outset #ff00ff;
+    -webkit-column-rule: 2px outset #ffffff; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px outset #ffffff; /* Firefox */
+    column-rule: 2px outset #ffffff;
   }
 
   .col3 {
@@ -26,14 +26,14 @@
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 
-    -webkit-column-gap: 10px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 10px; /* Firefox */
-    column-gap: 10x;
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
 
-    -webkit-column-rule: 4px outset #ff00ff; /* Chrome, Safari, Opera */
-    -moz-column-rule: 4px outset #ff00ff; /* Firefox */
-    column-rule: 4px outset #ff00ff;  
-   }
+    -webkit-column-rule: 2px outset #ffffff; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px outset #ffffff; /* Firefox */
+    column-rule: 2px outset #ffffff;
+}
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
