@@ -30,13 +30,13 @@
 
 div {
   font-family: 'Open Sans', sans-serif;
+ font-size-adjust: 0.75;
   text-align: justify;
   margin: 20px auto;
 }
 
 #firstBold {
     font-weight: bold;
-    /* font-size: 120%; */
     font-variant:small-caps;
 }
 
