@@ -9,16 +9,13 @@
 <div class="left column-image">
 <img src="assets/student-council-recap-201610-02.jpg" alt="assets/student-council-recap-201610-02.jpg" style="height:240px;width:320px;">
 </div>
-<div class="right column-content"><p>
+<p>
 This year, the annual Halloween dance took place in the cafeteria last block on Halloween Day. Student Council named the dance “Monster Mashup” and the dance included a Haunted Hallway, a photobooth and free candy. Over 250 students attended the dance in the afternoon and had a blast! October was a busy but memorable month for Student Council. They had an awesome time creating events for their fellow Titans and they cannot wait for the upcoming events.
 </p>
 </div>
-</div>
-
 <div>
 <h3>Upcoming Events (November 2016)</h3>
 </div>
-
 <div class="clearfix">
 <div class="right column-image">
 <img src="https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg" alt="https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg" style="height:240px;width:320px;">
