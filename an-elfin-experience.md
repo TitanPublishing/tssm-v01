@@ -1,5 +1,5 @@
 # An Elfin Experience
-## The Youth Outdoor Education class hikes the Elfin lakes
+## Youth Outdoor Ed class hikes the Elfin Lakes
 
 ![](https://www.vancouvertrails.com/images/hikes/elfin-lakes.jpg)
 ###### src:www.vancouvertrails.com/images/hikes/elfin-lakes.jpg
