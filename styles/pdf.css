@@ -36,7 +36,7 @@ div {
 
 #firstBold {
  font-weight: bold;
- font-variant:small-caps;
+ font-variant: small-caps;
  font-stretch: condensed;
  font-size: larger;
 }
@@ -50,6 +50,11 @@ p {
  font-size: smaller;
 }
 
+.indent {
+ text-indent: 20px;
+ font-size: smaller;
+}
+
 .gitbook-link {
     display: none !important;
 }
@@ -57,4 +62,39 @@ p {
 .image-wrapper {
     text-align: center;
     padding: 15px 0px;
+}
+
+.right {
+ float: right;
+ padding: 10px;
+ 
+}
+
+.left {
+ float: left;
+ padding: 10px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.column-image {
+ width: 60%;
+}
+
+.column-content {
+ width: 40%;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
 }
