@@ -42,8 +42,10 @@ div {
   text-align: justify;
   margin: 20px auto;
 }
-.firstBold {
-  font-weight: strong;  
+#firstBold {
+    font-weight: bold;
+    font-size: 200%;
+    font-variant:small-caps;
 }
 
 p {
