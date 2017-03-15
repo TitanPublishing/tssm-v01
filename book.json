@@ -7,11 +7,8 @@
 		"mobi": "styles/mobi.css",
 		"epub": "styles/epub.css"
 	},
-	"plugins": ["theme-bandwidth", "image-wrapper", "scripts", "autocover"],
+	"plugins": ["scripts", "autocover"],
 	"pluginsConfig": {
-		"theme-bandwidth": {
-			"theme": "dark"
-		},
 		"scripts": {
 			"files": ["./scripts/local-script.js"]
 		},
