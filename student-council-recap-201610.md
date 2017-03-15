@@ -14,7 +14,9 @@ This year, the annual Halloween dance took place in the cafeteria last block on 
 </p>
 </div>
 <div>
+
 ### Upcoming Events (November 2016)
+
 </div>
 <div class="clearfix">
 <div class="right column-image">
@@ -28,6 +30,7 @@ Templeton will be having a competition with Britannia to see who can collect the
 </p>
 </div>
 <div>
+
 ___
 
 Originally published at [medium.com/tssm](https://medium.com/tssm/student-council-1c7509a45fff#.yggf0w41t) on Nov 7, 2016.
