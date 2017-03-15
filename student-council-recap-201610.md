@@ -9,7 +9,12 @@
 <p>
 This year, the annual Halloween dance took place in the cafeteria last block on Halloween Day. Student Council named the dance “Monster Mashup” and the dance included a Haunted Hallway, a photobooth and free candy. Over 250 students attended the dance in the afternoon and had a blast! October was a busy but memorable month for Student Council. They had an awesome time creating events for their fellow Titans and they cannot wait for the upcoming events.
 </p>
+
+![](assets/student-council-recap-201610-02.jpg)
+
+
 </div>
+
 
 ### Upcoming Events (November 2016)
 
