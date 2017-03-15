@@ -7,7 +7,7 @@
 <p class="firstBold"><span id="firstBold">In October, Student Council hosted three main</span> events; clubs day, movie night and the annual Halloween dance. Clubs day was held in the cafeteria, and there were over 15 clubs in attendance. Some of the clubs included: Games club, Environment club, and the LEO club. Clubs Day allowed clubs to promote themselves and welcome new members into their club! Movie night took place on Wednesday the 12th. The movie shown was Coraline, which was voted to be played by the Templeton students.
 </p>
 <div class="left">
-<img src="assets/student-council-recap-201610-02.jpg" height="240" width="320">
+<img src="assets/student-council-recap-201610-02.jpg" alt="assets/student-council-recap-201610-02.jpg" style="height:240px;width:320px;">
 </div>
 <div class="right"><p>
 This year, the annual Halloween dance took place in the cafeteria last block on Halloween Day. Student Council named the dance “Monster Mashup” and the dance included a Haunted Hallway, a photobooth and free candy. Over 250 students attended the dance in the afternoon and had a blast! October was a busy but memorable month for Student Council. They had an awesome time creating events for their fellow Titans and they cannot wait for the upcoming events.
@@ -21,7 +21,7 @@ This year, the annual Halloween dance took place in the cafeteria last block on 
 
 <div class="clearfix">
 <div class="righte">
-<img src="https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg" height="240" width="320">
+<img src="https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg" alt="https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg" style="height:240px;width:320px;">
 </div>
 <div class="left">
 <p>
