@@ -18,6 +18,7 @@ By doing the hike, we did even more exercise than we would have if we were to ha
 I definitely recommend this hike since it is one that you can do with friends, family and you can even bring your dog with you. It’s a great way to get your daily exercise requirements, and it’s a great way to enjoy everything nature provides us with.
 </p>
 </div>
+
 ![](assets/fit-for-life-deep-cove.jpg)
 
 ___
