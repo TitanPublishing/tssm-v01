@@ -1,15 +1,18 @@
 {
 	"styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    },
-	"plugins": ["theme-bandwidth", "image-wrapper"],
+		"website": "styles/website.css",
+		"ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+	},
+	"plugins": ["theme-bandwidth", "image-wrapper", "scripts"],
 	"pluginsConfig": {
 		"theme-bandwidth": {
 			"theme": "dark"
+		},
+		"scripts": {
+			"files": ["./scripts/local-script.js"]
 		}
 	}
 }
