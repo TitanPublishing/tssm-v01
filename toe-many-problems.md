@@ -2,10 +2,8 @@
 ## My Monthly Struggle
 
 ![](assets/thor-stubbed-toe.jpg)
-###### src: https://dammitdolls.com/getattachment/blog/Dammit-Dolls-Blog/January-2016/The-Mental-Process-of-Stubbing-Your-toe/thor-stubbed-toe-(1).jpg.aspx
 
 <div class="col2">
-
 <p><span id="firstBold">My life is really</span> a series of unfortunate events. A few months ago I went on vacation and when I got back, I somehow immediately slammed my foot into the coffee table that was in the center of the room. I felt like I’d been shot to be honest. Being the trooper I am, I walked it off and carried on with the rest of the evening despite being in immense pain. Fast forward to the next morning, my foot still hurt! 
 </p>
 <p>
