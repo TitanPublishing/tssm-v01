@@ -29,7 +29,8 @@ In November, Student council will be hosting the Canley Cup, a Winter carnival a
 Templeton will be having a competition with Britannia to see who can collect the most cans so, let’s go Temp! The winter carnival, “Deck the halls”, will be taking place in the halls and the foyer on November 25th at lunch. There will be free food, activities and Christmas joy all around so don’t miss out. There will be a free hot chocolate day in November so be on the lookout for that!
 </p>
 </div>
+</div>
 <div>
 <hr>
-Originally published at [medium.com/tssm](https://medium.com/tssm/student-council-1c7509a45fff#.yggf0w41t) on Nov 7, 2016.
+Originally published at <a href="https://medium.com/tssm/student-council-1c7509a45fff#.yggf0w41t">medium.com/tssm</a> on Nov 7, 2016.
 </div>
