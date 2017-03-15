@@ -2,11 +2,9 @@
 ## Your Monthly Smile
 
 ![](https://i.imgur.com/A9Og9.jpg)
-###### src: https://i.imgur.com/A9Og9.jpg
 
 <div class="col2">
-
-<p><span id="firstBold">If you’re sleep deprived</span> and stressing over the product of your procrastination, all you need is a relaxing moment of love and calm. Pediatricians agree that babies have everything right. They’re non-discriminatory, open-minded, more creative, carefree and they know how to properly lift things without breaking their backs. 
+<p><span id="firstBold">If you’re sleep deprived and stressing over</span> the product of your procrastination, all you need is a relaxing moment of love and calm. Pediatricians agree that babies have everything right. They’re non-discriminatory, open-minded, more creative, carefree and they know how to properly lift things without breaking their backs. 
 </p>
 <p>
 It seems that as we grow up, everything goes downhill. These traits fade and are associated with immaturity as we find our definite “character.” Out of all the baby superiority, one thing stands out as the most important: babies sleep with stuffed animals; faithful companions who give excellent cuddles. In the search to find a human to cuddle with, we forget about those perfectly cuddly stuffies.
@@ -26,7 +24,6 @@ Next time you’re feeling down, you will know where to turn. By the way, IKEA h
 </div>
 
 ![](assets/stuffed-animals-for-all-ages-01.png)
-###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
 
 ___
 
