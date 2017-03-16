@@ -44,6 +44,14 @@ ___
 ###### src: http://a.scpr.org/i/e5f2c0c8767fab2f169929dd50cc0dc0/144253-full.jpg
 ![](http://a.scpr.org/i/e5f2c0c8767fab2f169929dd50cc0dc0/144253-full.jpg)
 ___
+# Monthly Struggles
+## If my problems were in a race, they would come in last
+
+![](http://3.bp.blogspot.com/_mPHW__-0zhI/TPgVNBsg5JI/AAAAAAAACig/GqT8Bt7CH9s/s1600/Justin%2Basleep%2Bin%2Bclass.jpg)
+###### src: http://3.bp.blogspot.com/_mPHW__-0zhI/TPgVNBsg5JI/AAAAAAAACig/GqT8Bt7CH9s/s1600/Justin%2Basleep%2Bin%2Bclass.jpg
+![](http://www.relatably.com/m/img/innocent-memes/55998324.jpg)
+###### src: http://www.relatably.com/m/img/innocent-memes/55998324.jpg
+___
 
 
 
