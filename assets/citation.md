@@ -20,9 +20,9 @@ ___
 ___
 # Student Council
 ![](student-council-recap-201610-01.jpg)
-####### src: Templeton Magazine
+###### src: Templeton Magazine
 ![](student-council-recap-201610-02.jpg)
-####### src: Templeton Magazine
+###### src: Templeton Magazine
 ![](https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg)
 ###### https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg
 ___
@@ -39,5 +39,11 @@ ___
 ###### src: Templeton Magazine
 ![](fit-for-life-01.jpg)
 ###### src: Templeton Magazine
+___
+# Movie Recommendations
+###### src: http://a.scpr.org/i/e5f2c0c8767fab2f169929dd50cc0dc0/144253-full.jpg
+![](http://a.scpr.org/i/e5f2c0c8767fab2f169929dd50cc0dc0/144253-full.jpg)
+___
+
 
 
