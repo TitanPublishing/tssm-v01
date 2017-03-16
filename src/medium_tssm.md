@@ -18,7 +18,7 @@
 - ~~[Active For Life](https://medium.com/tssm/active-for-life-fc49eef25bfe)~~
 - [Rumor Has it](https://medium.com/tssm/rumor-has-it-f4efeffd532f)
 - ~~[#BlaineThings](https://medium.com/tssm/blainethings-7639351aacbc)~~
-- [Monthly Struggles](https://medium.com/tssm/monthly-struggles-800c293cce7d)
+- ~~[Monthly Struggles](https://medium.com/tssm/monthly-struggles-800c293cce7d)~~
 - [A Quick Message](https://medium.com/tssm/a-quick-message-874577d14b8)
 - [Library Update](https://medium.com/tssm/library-update-1a3c70b1c674)
 - [Templeton Sports](https://medium.com/tssm/templeton-sports-3d00708fa022)
@@ -33,7 +33,7 @@
 - [At the Movies](https://medium.com/tssm/at-the-movies-b59b0a13f233)
 - [Mini Hall: Grade 7 Interviews](https://medium.com/tssm/mini-hall-grade-7-interviews-492cceb9f282)
 - [Titan Comics 2!](https://medium.com/tssm/titan-comics-2-e4e6ae74135d)
-- [Rock Climbing](https://medium.com/tssm/rock-climbing-dccea12943f3)
+- ~~[Rock Climbing](https://medium.com/tssm/rock-climbing-dccea12943f3)~~
 - [Monthly Struggle: No Sprain No Gain](https://medium.com/@templetonmagazine/26e0920a75fe)
 - []()
 - []()
