@@ -3,7 +3,7 @@
 
 ![](assets/fit-for-life-02.jpg)
 
-<div class="col2">
+<div>
 <p class="firstBold"><span id="firstBold">On November 22, 2016, Templeton’s Active for Life</span> PE class ventured downtown to the Robert Lee YMCA which is an organization that not only offers a fitness area, but also a swimming pool, childcare, two soft floor studios for yoga and pilates, and a full size gymnasium.
 </p>
 <p>
