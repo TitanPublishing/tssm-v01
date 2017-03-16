@@ -1,19 +1,7 @@
-# Title
-## Subtitle
-
-<div>
-<p class="firstBold"><span id="firstBold">Imagine on a school day, instead of sitting </span>in class you are hiking through the mountains at high altitudes or hiking in thin snow, like our most recent trip to Elfin lakes where Y.O.E. Class hiked for kilometres through vast blankets of beautiful, untouched snow. On these trips you can get away from the busy city noises and go to the peaceful vast mountains and lakes.
-</p>
-<div class="right column-image">
-<img src="assets/stuffed-animals-for-all-ages-01.png" alt="assets/stuffed-animals-for-all-ages-01.png" style="height:480px;width:360px;">
-</div>
-<p>
-We learn many things on the trips including trust, teamwork, outdoor survival and much more. The trips can be very physically challenging as we often hike more than ten kilometres a day with a steep incline carrying 30 pound backpacks. At night the the sky is clear and thousands of stars can be seen, along with many shooting stars.
-
-
 # Rock Climbing
 ## It rocks!
-![](assets/fit-for-life-201703-02.png)
+
+![](assets/active-for-life-201703-02.png)
 ###### src: Templeton Magazine
 
 <div>
@@ -24,7 +12,7 @@ We learn many things on the trips including trust, teamwork, outdoor survival an
 If you’re looking for something active and fun to do during the upcoming spring break, why not head out with some friends to try out rock climbing? At Cliffhanger, a day pass is $19.05. They’re open everyday from noon to 9 pm, so you can get plenty of climbing done.
 </p>
 <div class="right column-image">
-<img src="assets/fit-for-life-201703-01.png" alt="assets/fit-for-life-201703-01.png" style="height:360px;width:480px;">
+<img src="assets/active-for-life-201703-01.png" alt="assets/active-for-life-201703-01.png" style="height:360px;width:480px;">
 </div>
 <p>
 “Why rock climbing?” you ask. Here are some reasons:
@@ -39,7 +27,7 @@ If you’re looking for something active and fun to do during the upcoming sprin
 </ul>
 </p>
 <div class="left column-image">
-<img src="assets/fit-for-life-201703-03.png" alt="assets/fit-for-life-201703-03.png" style="height:360px;width:480px;">
+<img src="assets/active-for-life-201703-03.png" alt="assets/active-for-life-201703-03.png" style="height:360px;width:480px;">
 </div>
 <p>
 If you’re someone who doesn’t enjoy “working out” or going on runs but still wants to remain active, I definitely recommend rock climbing. Not only do you use your muscles, it’s good for your cardio and great fun.
