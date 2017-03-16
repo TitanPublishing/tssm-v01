@@ -1,6 +1,12 @@
+# Trying Something New
+![](assets/templeton-from-backfield.jpg)
+###### src: Templeton Magazine
+___
 # Deep Cove Adventure!
 ![](https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg)
 ###### src:https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg
+![](assets/fit-for-life-deep-cove.jpg)
+###### src: Templeton Magazine
 ___
 # Toe Many Problems
 ![](thor-stubbed-toe.jpg)
@@ -13,6 +19,10 @@ ___
 ###### src: https://www.flickr.com/photos/28759204@N00/4796647461/
 ___
 # Student Council
+![](student-council-recap-201610-01.jpg)
+####### src: Templeton Magazine
+![](student-council-recap-201610-02.jpg)
+####### src: Templeton Magazine
 ![](https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg)
 ###### https://www.food-finders.org/wp-content/uploads/2013/10/DSC1309.jpg
 ___
@@ -24,6 +34,10 @@ ___
 ![](https://upload.wikimedia.org/wikipedia/commons/4/40/Singin'_in_the_Rain_trailer.jpg)
 ###### src: https://upload.wikimedia.org/wikipedia/commons/4/40/Singin'_in_the_Rain_trailer.jpg
 ___
-
+# Putting a spin on our fitness!
+![](assets/fit-for-life-02.jpg)
+###### src: Templeton Magazine
+![](assets/fit-for-life-01.jpg)
+###### src: Templeton Magazine
 
 
