@@ -6,3 +6,5 @@
 * [Stuffed Animals For All Ages](stuffed-animals-for-all-ages.md)
 * [Student Council Recap October 2016](student-council-recap-201610.md)
 * [An Elfin Experience](an-elfin-experience.md)
+* [\#Blaine Things](blaine-things.md)
+* []()
