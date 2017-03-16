@@ -8,5 +8,5 @@
 * [An Elfin Experience](an-elfin-experience.md)
 * [\#Blaine Things](blaine-things.md)
 * [Putting a spin on our fitness!](putting-a-spin-in-our-fitness.md)
-* [Movie Recommendations for December](201612-movie-recommendations.md)
-* [Monthly Struggle for December](monthly-struggles-201612.md)
+* [Movies: Dec '16](201612-movie-recommendations.md)
+* [Monthly Struggle: Dec '16](monthly-struggles-201612.md)
