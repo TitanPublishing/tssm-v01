@@ -11,14 +11,16 @@ Our class challenged ourselves by taking a spin class that lasted for 30 minutes
 </p>
 <p>
 Here are some more benefits to High Intensity Interval Training (HIIT)
-- You’ll keep burning calories for hours
-- It can boost your endurance
-- It can amp your VO2 max
-- You’ll cut your workout in half
-- Switching it up gets you similar results
+<ul>
+<li>You’ll keep burning calories for hours</li>
+<li>It can boost your endurance</li>
+<li>It can amp your VO2 max</li>
+<li>You’ll cut your workout in half</li>
+<li>Switching it up gets you similar results</li>
+</ul>
 </p>
 <div class="right column-image">
-<img src="assets/fit-for-life-01.jpg" alt="assets/fit-for-life-01.jpg" style="height:480px;width:360px;">
+<img src="assets/fit-for-life-01.jpg" alt="assets/fit-for-life-01.jpg" style="height:360px;width:270px;">
 </div>
 <p>
 Going out to a recreational centre or a gym is a great way to get in shape but it’s also a great opportunity to meet people with the same goals as you. You might even bump into a celebrity. Holly and Cecilia bumped into Richard Harmon, an actor from the TV show The 100 who plays the character Murphy. So, get out and get active!
