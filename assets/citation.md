@@ -45,13 +45,18 @@ ___
 ![](http://a.scpr.org/i/e5f2c0c8767fab2f169929dd50cc0dc0/144253-full.jpg)
 ___
 # Monthly Struggles
-## If my problems were in a race, they would come in last
-
 ![](http://3.bp.blogspot.com/_mPHW__-0zhI/TPgVNBsg5JI/AAAAAAAACig/GqT8Bt7CH9s/s1600/Justin%2Basleep%2Bin%2Bclass.jpg)
 ###### src: http://3.bp.blogspot.com/_mPHW__-0zhI/TPgVNBsg5JI/AAAAAAAACig/GqT8Bt7CH9s/s1600/Justin%2Basleep%2Bin%2Bclass.jpg
 ![](http://www.relatably.com/m/img/innocent-memes/55998324.jpg)
 ###### src: http://www.relatably.com/m/img/innocent-memes/55998324.jpg
 ___
+# Rock Climbing
+![](assets/active-for-life-201703-02.png)
+###### src: Templeton Magazine
+![](assets/active-for-life-201703-01.png)
+###### src: Templeton Magazine
+![](assets/active-for-life-201703-03.png)
+###### src: Templeton Magazine
 
 
 
