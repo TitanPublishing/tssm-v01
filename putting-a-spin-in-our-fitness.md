@@ -9,7 +9,7 @@
 <p>
 Our class challenged ourselves by taking a spin class that lasted for 30 minutes which left us with our legs quivering. We were sweating like crazy. Now, you might ask, “What’s so great about exercising on a stationary machine in a room with a bunch of other people?” Well, first off, you get the same benefits that you would if you were to go on a run or a bike ride outside in half the amount of time because of the intensity that you’re going at. Whether you’re a beginner or at an intermediate level of fitness, your spin instructor will challenge you by telling you to go from light resistance to heavy resistance so your legs burn and are challenged.
 </p>
-<div class="left column-image">
+<div class="right column-image">
 <img src="assets/fit-for-life-01.jpg" alt="assets/fit-for-life-01.jpg" style="height:360px;width:270px;">
 </div>
 <p>
