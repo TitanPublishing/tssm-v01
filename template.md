@@ -2,19 +2,23 @@
 ## Subtitle
 
 <div class="col2">
-<p class="firstBold"><span id="firstBold">Imagine on a school day, instead of sitting </span>in class you are hiking through the mountains at high altitudes or hiking in thin snow, like our most recent trip to Elfin lakes where Y.O.E. Class hiked for kilometres through vast blankets of beautiful, untouched snow. On these trips you can get away from the busy city noises and go to the peaceful vast mountains and lakes.
+<p class="firstBold"><span id="firstBold">Opening Key Phrase</span> of paragraph 1.
 </p>
 <div class="right column-image">
 <img src="assets/stuffed-animals-for-all-ages-01.png" alt="assets/stuffed-animals-for-all-ages-01.png" style="height:480px;width:360px;">
+<h6>src: Templeton Magazine</h6>
 </div>
 <p>
-We learn many things on the trips including trust, teamwork, outdoor survival and much more. The trips can be very physically challenging as we often hike more than ten kilometres a day with a steep incline carrying 30 pound backpacks. At night the the sky is clear and thousands of stars can be seen, along with many shooting stars.
+Paragraph 2.
+</p>
+<p>
+Paragraph 3.
 </p>
 </div>
 
 ___
 
-Originally published by Author at [medium.com/tssm]() on date and time
+Originally published by Author at [medium.com/tssm]() on date and time.
 
 - [GitHub Markdown Syntax - pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
