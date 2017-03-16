@@ -4,7 +4,7 @@
 		"website": "styles/all.css",
 		"ebook": "styles/all.css",
 		"pdf": "styles/all.css",
-		"mobi": "styles/alli.css",
+		"mobi": "styles/all.css",
 		"epub": "styles/all.css"
 	},
 	"plugins": ["scripts", "image-wrapper", "autocover"],
