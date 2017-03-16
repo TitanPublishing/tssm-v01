@@ -17,7 +17,7 @@
 - ~~[Movie Recommendations](https://medium.com/tssm/movie-recommendations-9f962e868f6e)~~
 - ~~[Active For Life](https://medium.com/tssm/active-for-life-fc49eef25bfe)~~
 - [Rumor Has it](https://medium.com/tssm/rumor-has-it-f4efeffd532f)
-- [#BlaineThings](https://medium.com/tssm/blainethings-7639351aacbc)
+- ~~[#BlaineThings](https://medium.com/tssm/blainethings-7639351aacbc)~~
 - [Monthly Struggles](https://medium.com/tssm/monthly-struggles-800c293cce7d)
 - [A Quick Message](https://medium.com/tssm/a-quick-message-874577d14b8)
 - [Library Update](https://medium.com/tssm/library-update-1a3c70b1c674)
