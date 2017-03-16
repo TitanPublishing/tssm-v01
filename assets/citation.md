@@ -1,11 +1,11 @@
 # Trying Something New
-![](assets/templeton-from-backfield.jpg)
+![](templeton-from-backfield.jpg)
 ###### src: Templeton Magazine
 ___
 # Deep Cove Adventure!
 ![](https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg)
 ###### src:https://www.vancouvertrails.com/images/photos/quarry-rock-5.jpg
-![](assets/fit-for-life-deep-cove.jpg)
+![](fit-for-life-deep-cove.jpg)
 ###### src: Templeton Magazine
 ___
 # Toe Many Problems
@@ -35,9 +35,9 @@ ___
 ###### src: https://upload.wikimedia.org/wikipedia/commons/4/40/Singin'_in_the_Rain_trailer.jpg
 ___
 # Putting a spin on our fitness!
-![](assets/fit-for-life-02.jpg)
+![](fit-for-life-02.jpg)
 ###### src: Templeton Magazine
-![](assets/fit-for-life-01.jpg)
+![](fit-for-life-01.jpg)
 ###### src: Templeton Magazine
 
 
