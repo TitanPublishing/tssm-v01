@@ -1,11 +1,11 @@
 {
 	"title": "Templeton Secondary Student Magazine",
 	"styles": {
-		"website": "styles/website.css",
-		"ebook": "styles/ebook.css",
-		"pdf": "styles/pdf.css",
-		"mobi": "styles/mobi.css",
-		"epub": "styles/epub.css"
+		"website": "styles/all.css",
+		"ebook": "styles/all.css",
+		"pdf": "styles/all.css",
+		"mobi": "styles/alli.css",
+		"epub": "styles/all.css"
 	},
 	"plugins": ["scripts", "image-wrapper", "autocover"],
 	"pluginsConfig": {
