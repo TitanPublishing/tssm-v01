@@ -1,4 +1,4 @@
-# Summary
+# Inside this Issue
 
 * [Trying Something New](trying-something-new.md)
 ### October 2016
