@@ -51,12 +51,13 @@ ___
 ###### src: http://www.relatably.com/m/img/innocent-memes/55998324.jpg
 ___
 # Rock Climbing
-![](assets/active-for-life-201703-02.png)
+![](active-for-life-201703-02.png)
 ###### src: Templeton Magazine
-![](assets/active-for-life-201703-01.png)
+![](active-for-life-201703-01.png)
 ###### src: Templeton Magazine
-![](assets/active-for-life-201703-03.png)
+![](active-for-life-201703-03.png)
 ###### src: Templeton Magazine
+___
 
 
 
