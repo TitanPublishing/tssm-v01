@@ -1,7 +1,7 @@
 # \#BlaineThings
 ## \~It’s raining \~it’s pouring \~this city is roaring
 
-<div class="col2">
+<div>
 <p class="firstBold"><span id="firstBold">Raincouver isn’t the worst title</span> of our beloved city, but it isn’t great. Sure, it describes the aqueous nature of the metropolis, but the soggy adjective is so haphazardly thrown around that it doesn’t make much sense. The title replaces the first syllable of the name with an adjective that describes the “couver” as a city well known for rain, but replaces the non-adjectival syllable of “Van,” because Vancouver is not renowned for its box-shaped creepy automobiles. It’s okay, though, because it’s funny, and the nickname holds a lot of truth.
 </p>
 <p>
