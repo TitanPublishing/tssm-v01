@@ -7,4 +7,5 @@
 * [Student Council Recap October 2016](student-council-recap-201610.md)
 * [An Elfin Experience](an-elfin-experience.md)
 * [\#Blaine Things](blaine-things.md)
-* []()
+* [Putting a spin on our fitness!](putting-a-spin-in-our-fitness.md)
+* [Movie Recommendations](201612-movie-recommendations.md)
