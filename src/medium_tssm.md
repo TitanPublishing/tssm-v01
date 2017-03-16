@@ -14,8 +14,8 @@
 - [What’s on the Menu?](https://medium.com/tssm/whats-on-the-menu-a5a435c4dcb3)
 - ~~[An Elfin Experience](https://medium.com/tssm/an-elfin-experience-a91bf748a1d5)~~
 - [¡Titan Comics!](https://medium.com/tssm/titan-comics-4342a9a56691)
-- [Movie Recommendations](https://medium.com/tssm/movie-recommendations-9f962e868f6e)
-- [Active For Life](https://medium.com/tssm/active-for-life-fc49eef25bfe)
+- ~~[Movie Recommendations](https://medium.com/tssm/movie-recommendations-9f962e868f6e)~~
+- ~~[Active For Life](https://medium.com/tssm/active-for-life-fc49eef25bfe)~~
 - [Rumor Has it](https://medium.com/tssm/rumor-has-it-f4efeffd532f)
 - [#BlaineThings](https://medium.com/tssm/blainethings-7639351aacbc)
 - [Monthly Struggles](https://medium.com/tssm/monthly-struggles-800c293cce7d)
