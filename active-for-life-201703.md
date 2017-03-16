@@ -13,6 +13,7 @@ If you’re looking for something active and fun to do during the upcoming sprin
 </p>
 <div class="right column-image">
 <img src="assets/active-for-life-201703-01.png" alt="assets/active-for-life-201703-01.png" style="height:360px;width:480px;">
+<h6>src: Templeton Magazine</h6>
 </div>
 <p>
 “Why rock climbing?” you ask. Here are some reasons:
@@ -28,6 +29,7 @@ If you’re looking for something active and fun to do during the upcoming sprin
 </p>
 <div class="left column-image">
 <img src="assets/active-for-life-201703-03.png" alt="assets/active-for-life-201703-03.png" style="height:360px;width:480px;">
+<h6>src: Templeton Magazine</h6>
 </div>
 <p>
 If you’re someone who doesn’t enjoy “working out” or going on runs but still wants to remain active, I definitely recommend rock climbing. Not only do you use your muscles, it’s good for your cardio and great fun.
