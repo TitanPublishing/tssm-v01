@@ -9,6 +9,9 @@
 <p>
 Our class challenged ourselves by taking a spin class that lasted for 30 minutes which left us with our legs quivering. We were sweating like crazy. Now, you might ask, “What’s so great about exercising on a stationary machine in a room with a bunch of other people?” Well, first off, you get the same benefits that you would if you were to go on a run or a bike ride outside in half the amount of time because of the intensity that you’re going at. Whether you’re a beginner or at an intermediate level of fitness, your spin instructor will challenge you by telling you to go from light resistance to heavy resistance so your legs burn and are challenged.
 </p>
+<div class="left column-image">
+<img src="assets/fit-for-life-01.jpg" alt="assets/fit-for-life-01.jpg" style="height:360px;width:270px;">
+</div>
 <p>
 Here are some more benefits to High Intensity Interval Training (HIIT)
 <ul>
@@ -19,9 +22,6 @@ Here are some more benefits to High Intensity Interval Training (HIIT)
 <li>Switching it up gets you similar results</li>
 </ul>
 </p>
-<div class="right column-image">
-<img src="assets/fit-for-life-01.jpg" alt="assets/fit-for-life-01.jpg" style="height:360px;width:270px;">
-</div>
 <p>
 Going out to a recreational centre or a gym is a great way to get in shape but it’s also a great opportunity to meet people with the same goals as you. You might even bump into a celebrity. Holly and Cecilia bumped into Richard Harmon, an actor from the TV show The 100 who plays the character Murphy. So, get out and get active!
 </p>
