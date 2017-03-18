@@ -1,7 +1,7 @@
 # Title
 ## Subtitle
 
-<div class="col2">
+<div class="cols">
 <p class="firstBold"><span id="firstBold">Opening Key Phrase</span> of paragraph 1.
 </p>
 <div class="right column-image">
