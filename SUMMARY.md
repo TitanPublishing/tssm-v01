@@ -14,3 +14,7 @@
 * [Monthly Struggle: Napping](monthly-struggles-201612.md)
 ### March 2017
 * [Active for Life: Rock Climbing](active-for-life-201703.md)
+
+
+### Other
+* [SStory](sstory.html)
