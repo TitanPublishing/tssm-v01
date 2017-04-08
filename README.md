@@ -2,7 +2,7 @@
 
 ![](assets/tssm-banner.png)
 
-<!-- ## [Table of Contents](SUMMARY.md) -->
+## [Table of Contents](SUMMARY.md)
 
 
 
