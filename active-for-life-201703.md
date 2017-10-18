@@ -4,7 +4,7 @@
 ![](assets/active-for-life-201703-02.png)
 ###### src: Templeton Magazine
 
-<div class="cols">
+<div class="col2">
 <p class="firstBold"><span id="firstBold">Last month, Templeton’s Active For Life class ventured to Cliffhanger</span>, a rock climbing gym near Science World. It’s huge, with over 8,000 square feet of climbing. It has a 40 foot ceiling and 60 foot overhang, so people are free to do as they please.
 </p>
 
