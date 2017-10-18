@@ -17,6 +17,7 @@ If you’re looking for something active and fun to do during the upcoming sprin
 </div>
 <p>
 “Why rock climbing?” you ask. Here are some reasons:
+<div class="pagebreak"></div>
 <ul>
 <li>Strengthens and tones muscles: Several muscle groups are engaged while climbing. The upper body is especially engaged because you’re pulling yourself up. Your core and legs also get a workout, because you use those to stabilize and balance yourself. We asked our Active For Life class how they were feeling the day after, and almost every one of them said their forearms have never been so sore before.</li>
 <li>Mental Strength: As with most sports, rock climbing requires a lot of thinking; you have to use your problem solving abilities and quick decision making in order to make it to the top.</li>
