@@ -6,6 +6,7 @@
 <div>
 <p class="firstBold"><span id="firstBold">Templeton Secondary Student Magazine is</span> finally here! Templeton’s very own magazine! Filled with columns to help the everyday-Titan navigate school and all that comes with it. This magazine will present news columns as an outlet to catch up on monthly events, activities, and student council announcements, and to provide knowledge about Templeton clubs and sports games. We’ll also have monthly pieces of art works in the form of, comics, an art gallery, and story telling. We are open to any student or member of faculty that want their voice to be heard.
 </p>
+<div class="pagebreak"></div>
 <p>
 According to a small poll conducted by the magazine, 2 out of 3 people would prefer to read the magazine as a hard copy. The magazine has taken this into consideration, but for the first publication the magazine will be available only online. A decision for the second publication will be founded on the outcome of the first. The magazine urges Titans to voice their suggestions so that this can be easy and fun to read. 
 </p>
